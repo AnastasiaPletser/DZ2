@@ -5,7 +5,6 @@ class Form extends Component {
     state = {
     userName: "userName",
     password: "password",
-    required: 'Поле обязательно к заполнению',
     title: "Form"
     
   }
